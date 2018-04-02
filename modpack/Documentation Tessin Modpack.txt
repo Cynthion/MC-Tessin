@@ -17,10 +17,7 @@ Project Bench			--> not released yet for 1.12 (https://www.minecraftore.com/proj
 --------
 | MODS | ([forge-XY]/mods folder)
 --------
-Installer
----------
-Optifine HD Ultra		--> manual installer for new "OptiFine" profile (http://minecraftsix.com/optifine-hd-mod/)
-				--> requires mod on the server
+
 
 Features
 --------
@@ -51,6 +48,7 @@ Placebo				--> needed?
 ProjectE			--> with textures (hack)
 Wither Skeleton Tweaks
 Wireless Redstone CBE		--> with textures (not yet hacked), requires CoreChickenLib and ForgeMultiPart CBE
+Optifine HD Ultra
 
 Ui
 --
