@@ -1,0 +1,97 @@
+Target Version: 	Minecraft v1.12.2
+Requirements: 		use 4 GB memory
+Todo: 			- create single resourcepack/texture pack that contains all the others
+			- apply all mods on the server
+			- create own modpack/forgeXY
+
+------------
+| WISHLIST |
+------------
+Project Red (http://niceminecraft.net/project-red-mod/)
+				--> not released (yet?) for 1.12
+				--> use RSWires instead?
+Engineers Toolbox		--> not supported for 1.12	--> Alternative?
+RailCraft			--> not supported for 1.12	--> Alternative?
+Project Bench			--> not released yet for 1.12 (https://www.minecraftore.com/project-bench-mod/)
+
+--------
+| MODS | ([forge-XY]/mods folder)
+--------
+Installer
+---------
+Optifine HD Ultra		--> manual installer for new "OptiFine" profile (http://minecraftsix.com/optifine-hd-mod/)
+				--> requires mod on the server
+
+Features
+--------
+Biome o'Plenty			--> with textures
+BuildCraft (ALPHA)		--> with textures (hack)
+Chisel (& CTM)			--> with textures (hack)
+Thermal Expansion		--> with textures, requires CoFHCore, CodeChickenLib 1.8+, Thermal Foundation
+Thermal Foundation		--> with textures, requires CoFHCore, CoFHWorld
+CoFHCore	 		--> lib, with textures, requires Redstone Flux
+CoFHWorld			--> lib
+CodeChickenLib			--> lib
+ChickenChunks			--> with textures, requires CoreChickenLib
+Redstone Flux			--> lib
+Draconic Evolution		--> with textures, requires BrandonsCore, CodeChickenLib and Redstone Flux
+Brandon's Core			--> lib, requires CodeChickenLib and Redstone Flux
+DrZhark Mo'Creatures
+ElecCore			--> needed?
+Elemtal Dimensions
+Hunting Dimension
+Forestry			--> with textures (hack)
+ForgeMultiPart CBE		--> lib
+FuturePack
+Galacticraft 4			--> with textures
+Extra Planets			--> requires MJRLegendsLib and Galacticraft 4
+MJRLegendsLib			--> lib
+IndustrialCraft 2		--> with textures
+Placebo				--> needed?
+ProjectE			--> with textures (hack)
+Wither Skeleton Tweaks
+Wireless Redstone CBE		--> with textures (not yet hacked), requires CoreChickenLib and ForgeMultiPart CBE
+
+Ui
+--
+JourneyMap (Map)
+Not Enough Items (NEI)		--> with textures, requires Just Enough Items (JEI) and CodeChickenLib
+Just Enough Items (JEI)		--> lib
+What Are We Looking At (WAWLA) 	--> item/block tooltips, requires Here's What You Look At (HYWLA)
+Here's What You Look At (HYWLA)	--> lib, information engine
+
+
+------------------
+| RESOURCE PACKS | ([forge-XY]/resourcepacks folder)
+------------------
+All loaded from http://bdcraft.net/
+More textures from Soartex? (https://github.com/Soartex-Modded/Modded-1.12.x)
+
+Wishlist
+--------
+Future Pack
+Elemtal Dimensions
+Hunting Dimensions
+
+Supported
+---------
+PureBDcraft x64 (Standard Minecraft)
+PureBDcraft More 3D Blocks
+PureBDcraft More 3D Items
+Sphax64x Biomes o'Plenty
+Sphax64x Galacticraft						--> use Soartex?
+Sphax64x IndustiralCraft2
+Sphax ThermalExpansion & Sphax Thermal Foundation & Sphax CoFHCore (hack work needed?)
+
+Hacks
+-----
+Using upgrade hack v1 --> v3 in pack.mcmeta
+
+Chisel for 1.12 (hack, Sphax?)					--> use Soartex?
+Sphax Forestry (hack, more hack work needed?)			--> use Soartex?
+Sphax ProjectE (hack, more hack work needed?)
+Sphax BuildCraft (hack, more hack work needed?)
+Sphax NotEnoughItems (NEI) (hack)
+Sphax Wireless Redstone (hack)
+Sphax ChickenChunks (hack, more hack work needed?)
+WIP Sphax128 Draconic Evolution (hack, still work in progress)
